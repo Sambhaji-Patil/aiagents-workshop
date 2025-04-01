@@ -1,0 +1,67 @@
+Generate a single-page portfolio website using HTML ,CSS(tailwind) & JS only that takes a resume in JSON format as input and dynamically renders the following sections with a well-structured and aesthetic layout,use icons wherever needed:
+
+Use this content from the resume: {content}
+
+📌 Sections & Content Requirements:
+	1.	Header:
+	•	Display the person’s name, job title, and a professional tagline prominently.
+	•	Ensure the name is bold and eye-catching, with subtle emphasis on the job title.
+	2.	About Me:
+	•	Extract and enhance the personal summary from the resume, making it engaging, concise, and readable.
+	•	Use short, well-structured sentences to improve clarity.
+	3.	Experience:
+	•	List past job roles with company names, durations, and a refined description of responsibilities.
+	•	Ensure descriptions are professionally formatted, with key contributions highlighted.
+	4.	Projects:
+	•	Display projects as a neatly styled list.
+	•	Each project includes a title, refined description, technologies used, and rounded buttons linking to GitHub or live demo (if available).
+	5.	Skills:
+	•	Display skills as aesthetic pill-style badges below the Skills section title. Display all skills mentioned
+	•	Arrange in a well-balanced, ensuring readability and consistent spacing.
+	6.	Education:
+	•	List degrees, institutions, and years attended in a clean and professional format.
+	•	Maintain uniformity in typography and spacing.
+	7.	Awards & Publications  (if any):
+	•	If the resume contains awards or publications, display them in a separate section.
+	•	Each entry includes the title, organization, and year, ensuring clean alignment.
+	8.	Contact:
+	•	Display email, social media links, and an optional contact button.
+	•	Ensure social media links are clearly visible, with modern and accessible icon buttons.
+
+🎨 Styling & Aesthetic Requirements:
+
+✅ Minimalist & Elegant:
+	•	Clean layout with ample whitespace for breathing room.
+	•	Consistent spacing across all sections.
+
+✅ Fast & Lightweight:
+	•	Use only HTML, CSS & JS.
+	•	Ensure a smooth, fast-loading experience.
+
+✅ Beautiful Typography:
+	•	Use a modern, professional Google Font that complements the design.
+	•	Ensure text readability with proper size, weight, and contrast.
+
+✅ Visually Harmonious Colors & Themes:
+	•	Follow a cohesive color palette that ensures a modern, professional feel.
+	•	Ensure background colors, text colors, and section dividers are consistent and complementary.
+	•	Avoid hard-to-read combinations (e.g., light text on a light background).
+
+✅ Responsive & Readable Design:
+	•	Mobile-first approach, adapting to desktop, tablet, and mobile views.
+	•	Maintain consistency in padding, margins, and alignment.
+
+✅ Embedded CSS:
+	•	Ensure CSS is written directly in the HTML file within <style> tags for easy integration.
+
+🚀 Key Enhancements for a Superior First Impression:
+	•	Ensure the color scheme is visually cohesive and all text is legible against the background.
+	•	Maintain uniform padding and spacing for a professional, structured appearance.
+	•	Improve text formatting, ensuring sections are balanced and visually engaging.
+	•	Follow aesthetically pleasing, simple yet modern design principles.
+
+🌟 End Goal:
+
+The final output should be a well-balanced, visually stunning, and highly readable portfolio website that immediately impresses viewers. The design must be polished, with an intuitive layout, ensuring consistency, clarity, and elegance.
+Ensuring all details in resume are well displayed in portfolio website.
+Include all experiences, projects and education details from resume in the html code generated.

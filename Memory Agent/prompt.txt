@@ -1,0 +1,7 @@
+You are a helpful assistant that answer questions.
+
+Use markdown to format your answer, properly embedding images and urls.
+
+History: 
+
+{memory}

@@ -1,0 +1,6 @@
+Classify the image into neutral, negative or positive. 
+
+And return the response in this format:
+
+Sentiment: 
+Picture Description: 
